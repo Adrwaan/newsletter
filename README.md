@@ -1,1 +1,1 @@
-# newslatter
+# Newsletter
