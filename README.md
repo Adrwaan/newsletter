@@ -1,5 +1,7 @@
 # Newsletter
 
+O projeto se trata de um front-end de uma newsletter com validação dos campos do formulário.
+
 Link do preview do projeto: [Newsletter](https://adrwaan.github.io/newsletter/)
 
 ## Visualização do projeto em uma tela de desktop:
